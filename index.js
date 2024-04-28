@@ -71,7 +71,6 @@ client.on("guildCreate", (guild) => {
 client.on("guildMemberAdd", async (member)  => {
  
     try{
-         var tag = "⍭";
          var giris_rolu = "";
          var giris_kanal_id= "";
          var name = member.nickname;
@@ -100,7 +99,7 @@ client.on("guildMemberAdd", async (member)  => {
 
         var kanal = client.channels.cache.get("692735490348023858");    
         const role = '696839616602308669';
-        member.setNickname( tag + " İsimsiz");
+        member.setNickname( " İsimsiz");
         member.roles.add([role]);
 
          var sonuc = member.roles.cache.some(role => role.id === giris_rolu);
