@@ -21,3 +21,16 @@
 * **JavaScript (ES6+):** Modern programlama standartları.
 
 ---
+
+📫 İletişim
+Caner ASLAN - caneraslanm@gmail.com
+---
+
+### GitHub "About" Kısmı İçin Öneri:
+Bu projeyi tanımlamak için şu kısa metni kullanabilirsin:
+> **"A professional Discord membership registration bot built with Discord.js. Features automated welcome messages, role management, and easy deployment."**
+
+### Etiketler (Topics):
+`discord-bot` `discord-js` `registration-system` `node-js` `javascript` `discord-moderation`
+
+Bu taslakta projenin içindeki `functions.js` ve `.github/workflows` gibi detayları da belirterek projenin sadece basit bir script değil, üzerinde düşünülmüş bir altyapı olduğunu vurguladım. Başka bir özellik eklememi ister misin?
